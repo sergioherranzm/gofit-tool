@@ -1,0 +1,20 @@
+1. Si se usa IE
+    1.1 Desabilitar boton edge
+
+2. Instalar winrar
+
+3. Instalar chrome
+
+4. Instalar office 2016 (si puede ser sin One Drive para evitar punto 8.)
+
+5. Instalar outlook
+
+6. Habiltar el regedit la utomatizacion de correos en outlook
+http://help.nice-automation.com/content/topics/allowprogrammaticaccessoutlook.htm
+
+7. configurar energias
+
+8. Deshabilitar inicio de servicios innecesarios en el administrador de tareas.
+
+9. Habilitar el .bat de inicio de app en:
+    E:\Users\SHM_server\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup

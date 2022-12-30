@@ -1,0 +1,37 @@
+#VARIABLES
+Loop_Timer = 1
+#loop time in seconds
+Initial_Rep = 1
+Download_Schedule_Timer = 3600
+Download_Reserves_Timer = 240
+Check_Reserves_Timer = 1
+#Seconds to start reserves in advance
+Start_Reserve_Time_In_Advance = 35
+
+Server_Start_Time = 15:00
+Server_Shutdown_Time = 21:29
+#HH:MM (24h format)
+
+Chrome_Window_Size_Schedule = 1920,1080
+Chrome_Window_Size_Reserves = 1200,1080
+
+
+s_User = ***email del usuario***
+s_Password = ***password del usuario***
+Contact_Email = ***email del usuario***
+Fav_Slot_Default = 22
+
+Fav_Slot_List.count = 3
+Fav_Slot_List.0.activity = YOGA
+Fav_Slot_List.0.slot = 37
+Fav_Slot_List.1.activity = BOX
+Fav_Slot_List.1.slot = 35
+Fav_Slot_List.2.activity = GO FIT RITMOS(LATINO)
+Fav_Slot_List.2.slot = 32
+
+Gofit_Url_Login = https://go-fit.es/#login
+Gofit_Url_Schedule = https://go-fit.es/area-privada/horarios/
+Admin_Email = ***email del admin***
+Shutdown_Path = C:\\Users\\BTC_server\\Desktop\\s_Folder\\shutdown_server.bat
+DB_Path = ***mongo db atlas URL***
+Chrome_Driver_Path = C:\\Users\\BTC_server\\Desktop\\s_Folder\\GoFit_Tool\\chromedriver_win32\\chromedriver.exe
