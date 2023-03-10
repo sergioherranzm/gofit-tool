@@ -10,6 +10,7 @@ import os
 import sys
 import logging
 import traceback
+from pymongo import MongoClient
 import sqlite3
 import win32com.client as win32
 from jproperties import Properties
